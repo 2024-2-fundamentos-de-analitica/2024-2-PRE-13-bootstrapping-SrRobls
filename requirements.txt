@@ -4,4 +4,4 @@ numpy
 pandas
 scikit-learn
 tqdm
-ipykernel
+ipykernelDefaulting to user installation because normal site-packages is not writeable
